@@ -20,26 +20,34 @@ GitHub Browser is a full-stack web application that allows users to search for G
 
 ```bash
 
-- cd server
-- npm install
-- cd client
-- npm install
+cd server
+npm install
+cd client
+npm install
 
 ```
 
 ## Usage
 
-- cd server
-- npm start
-- cd client
-- npm start
+```bash
+
+cd server
+npm start
+cd client
+npm start
+
+```
 
 ## Testing
 
-- cd server
-- npm test
-- cd client
-- npm test
+```bash
+
+cd server
+npm test
+cd client
+npm test
+
+```
 
 ### Clone the Repository
 
