@@ -8,7 +8,7 @@ GitHub Browser is a full-stack web application that allows users to search for G
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Cloning](#ClonetheRepository)
+- [Cloning](#Clone-the-Repository)
 
 ## Features
 
