@@ -19,34 +19,28 @@ GitHub Browser is a full-stack web application that allows users to search for G
 ## Installation
 
 ```bash
-
 cd server
 npm install
-cd client
+cd ../client
 npm install
-
 ```
 
 ## Usage
 
 ```bash
-
 cd server
 npm start
-cd client
+cd ../client
 npm start
-
 ```
 
 ## Testing
 
 ```bash
-
 cd server
 npm test
-cd client
+cd ../client
 npm test
-
 ```
 
 ### Clone the Repository
@@ -54,3 +48,4 @@ npm test
 ```bash
 git clone https://github.com/Afk-Marcel/Github-Browser.git
 cd Github-Browser
+```
