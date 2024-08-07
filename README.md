@@ -9,6 +9,7 @@ GitHub Browser is a full-stack web application that allows users to search for G
 - [Usage](#usage)
 - [Testing](#testing)
 - [Cloning](#Clone-the-Repository)
+- [Author](#author)
 
 ## Features
 
@@ -50,3 +51,6 @@ npm test
 git clone https://github.com/Afk-Marcel/Github-Browser.git
 cd Github-Browser
 ```
+## Author
+
+Marcel Greyling (Afk-Marcel)
