@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserDetails Component should match the snapshot 1`] = `
+<div
+  style={
+    Object {
+      "fontFamily": "Arial, sans-serif",
+      "lineHeight": "1.6",
+      "padding": "20px",
+    }
+  }
+/>
+`;
